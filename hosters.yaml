@@ -1,6 +1,6 @@
 - domain: "Fake Hosting Company BV"
   permalink: "https://domain1.nl"
-- domain: "domain2.nl"
+- domain: "Not Fake Hosting Company BV"
   permalink: "https://domain2.nl"
 - domain: "domain3.nl"
   permalink: "https://domain3.nl"
