@@ -17,7 +17,7 @@ Shared report web: https://dashboard.internet.nl/#/shared/report/46793684-324e-4
 
 ## Delisting 
 Non-compliant hosters will be manually delisted based on the following criteria and rules:
-* If the test results are below 100% for 3 consecutive scans (approximately 6 weeks) regardless of the subtests that are failing.
+* If the test results for either web or mail are below 100% for 3 consecutive scans (approximately 6 weeks) regardless of the subtests that are failing.
 * When we include new (sub)tests into our overall test score (the percentage), we will provide a grace period of 2 months (from the date of inclusion) for hosters in our Hall of Fame to become fully compliant (double 100% score).
 * Delisting occurs for a period of at least 3 months, after which the hosters needs to manually reapply to be listed again.
 * The hosters contact person will receive a notification of the delisting.
