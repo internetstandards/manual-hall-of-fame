@@ -10,8 +10,13 @@ For hosters to be listed in our **Hall of Fame for Hosters** the following crite
 * Trade register: The hoster's company name is mentioned as a trade name in the Trade Register of the Dutch Chamber of Commerce or in a similar foreign trade register;
 * Only per request: Inclusion in this Hall of Fame is voluntary and can be requested by the hoster by sending an e-mail to question@internet.nl.
 
+## Automated compliance checks
+The Internet.nl Dashboard is used to regularly check if the hosters listed in the **Hall of Fame for Hosters** are still on a double 100% score (mail and web) for the own domain. This is an automated check and will be performed twice per month. The result reports are publicly available:  
+Shared report mail: https://dashboard.internet.nl/#/shared/report/76316334-3b12-404b-9bea-93307c107047  
+Shared report web: https://dashboard.internet.nl/#/shared/report/46793684-324e-49d3-92c0-0c09f7981dc7  
+
 ## Delisting 
-The Internet.nl Dashboard is used to regularly check if the hosters listed in the **Hall of Fame for Hosters** are still on a double 100% score (mail and web) for the own domain. This is an automated check and will be performed twice per month. Non-compliant hosters will be manually delisted based on the following criteria and rules:
+Non-compliant hosters will be manually delisted based on the following criteria and rules:
 * If the test results are below 100% for 3 consecutive scans (approximately 6 weeks) regardless of the subtests that are failing.
 * When we include new (sub)tests into our overall test score (the percentage), we will provide a grace period of 2 months (from the date of inclusion) for hosters in our Hall of Fame to become fully compliant (double 100% score).
 * Delisting occurs for a period of at least 3 months, after which the hosters needs to manually reapply to be listed again.
