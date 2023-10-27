@@ -23,6 +23,6 @@ Non-compliant hosters will be manually delisted based on the following criteria 
 * When we include new (sub)tests into our overall test score (the percentage), we will provide a grace period of 2 months (from the date of inclusion) for hosters in our Hall of Fame to become fully compliant (double 100% score).
 * Delisting occurs for a period of at least 3 months, after which the hosters needs to manually reapply to be listed again.
 * The hosters contact person will receive a notification of the delisting.
-* There will be no communication prior to the delisting; it is the hosters responsibility to make sure (and check) whether the own domain is still on a double 100% score (for mail and web).
+* There will be no communication prior to the delisting; it is the hoster's responsibility to make sure (and check) whether the own domain is still on a double 100% score (for mail and web).
 
 If there is another reason why a hoster should not be listed in our Hall of Fame for Hosters, please send an email to question@internet.nl using proper argumentation.
