@@ -15,7 +15,7 @@ For hosters to be listed in our **Hall of Fame for Hosters** the following crite
 * **Order**: The names of the hosters in the Hall of Fame are shown in random order.
 
 ## Automated compliance checks
-The Internet.nl Dashboard is used to regularly check if the hosters listed in the **Hall of Fame for Hosters** are still on a double 100% score (mail and web) for the own domain. This is an automated check and will be performed twice per month. The result reports are publicly available: https://dashboard.internet.nl/#/published/103/
+The Internet.nl Dashboard is used to regularly check if the hosters listed in the **Hall of Fame for Hosters** are still on a double 100% score (mail and web) for the own domain. This is an automated check and will be performed twice per month. The [result reports](https://dashboard.internet.nl/#/published/103/) are publicly available.
 
 ## Delisting 
 Non-compliant hosters will be manually delisted based on the following criteria and rules:
