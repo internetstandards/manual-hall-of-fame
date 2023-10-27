@@ -4,11 +4,11 @@ New entries appear online by adding them to the "hosters.yaml" file, as this fil
 
 ## Listing criteria
 For hosters to be listed in our **Hall of Fame for Hosters** the following criteria must be met:
-* **Hoster's domain 2x 100%**: The hoster's own domain name, on which the company website is active, scores 100% in both the website test and the email test on Internet.nl;
-* **Offering of hosting services**: The hoster explicitly offers hosting services for websites and e-mail on it's company website without limitations in the customer audience (like societies and clubs);
-* **Customer domains 2x 100%**: The hoster  offers its customers the possibility to score 100% in both the website test and email test on Internet.nl;
-* **Trade register**: The hoster's company name is mentioned as a trade name in the Trade Register of the Dutch Chamber of Commerce or in a similar foreign trade register;
-* **Only per request**: Inclusion in this Hall of Fame is voluntary and can be requested by the hoster by sending an e-mail to question@internet.nl.
+1. **Hoster's domain 2x 100%**: The hoster's own domain name, on which the company website is active, scores 100% in both the website test and the email test on Internet.nl;
+2. **Offering of hosting services**: The hoster explicitly offers hosting services for websites and e-mail on it's company website without limitations in the customer audience (like societies and clubs);
+3. **Customer domains 2x 100%**: The hoster  offers its customers the possibility to score 100% in both the website test and email test on Internet.nl;
+4. **Trade register**: The hoster's company name is mentioned as a trade name in the Trade Register of the Dutch Chamber of Commerce or in a similar foreign trade register;
+5. **Only per request**: Inclusion in this Hall of Fame is voluntary and can be requested by the hoster by sending an e-mail to question@internet.nl.
 
 ## Other rules
 * **Badge**: Only hosters listed in this Hall of Fame for Hosters are allowed to use the above **Internet.nl compliant badge** in their own communications. In case you want to use the badges on your website, the domain of that website has to correspond with the entry listed in the Hall of Fame. 
