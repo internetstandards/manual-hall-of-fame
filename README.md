@@ -11,7 +11,7 @@ For hosters to be listed in our **Hall of Fame for Hosters** the following crite
 * **Only per request**: Inclusion in this Hall of Fame is voluntary and can be requested by the hoster by sending an e-mail to question@internet.nl.
 
 ## Other rules
-* **Our badge**: Only hosters listed in this Hall of Fame for Hosters are allowed to use the above **Internet.nl compliant badge** in their own communications. In case you want to use the badges on your website, the domain of that website has to correspond with the entry listed in the Hall of Fame. 
+* **Badge**: Only hosters listed in this Hall of Fame for Hosters are allowed to use the above **Internet.nl compliant badge** in their own communications. In case you want to use the badges on your website, the domain of that website has to correspond with the entry listed in the Hall of Fame. 
 * **Order**: The names of the hosters in the Hall of Fame are shown in random order.
 
 ## Automated compliance checks
